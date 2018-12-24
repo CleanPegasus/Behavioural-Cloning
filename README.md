@@ -22,21 +22,21 @@ This project aims at making an autnomous car driving simulation on the udacity s
 
 Open command prompt or terminal and type the following commands to install the respective libraries.
 
-> Socket io : pip3 install socketio
+> Socket io : ```pip3 install socketio```
 
-> Flask : pip3 install flask
+> Flask : ```pip3 install flask```
 
-> Keras : pip3 install keras
+> Keras : ```pip3 install keras```
 
-> Tensorflow : pip3 install tensorflow
+> Tensorflow : ```pip3 install tensorflow```
 
-> OpenCV : pip3 install opencv-python
+> OpenCV : ```pip3 install opencv-python```
 
-> Pillow : pip3 install pillow
+> Pillow : ```pip3 install pillow```
 
-> Numpy : pip3 install numpy
+> Numpy : ```pip3 install numpy```
 
-> Eventlet : pip3 install Eventlet
+> Eventlet : ```pip3 install Eventlet```
 
 ## Instructions :
 Download and run the udacity simulator from the link given above. Open the training mode. Get used to the drving track and start recording your driving and save it in a data file.
