@@ -54,5 +54,5 @@ The Nvidia model works best for the Behavioral Cloning of autonomous car. Feel f
  Now run the Drive.py code and open the Udacity simulator on **Autonomous** mode. Your terminal will show it's connected and the car will start moving based on the model.
 
 
-<img src="readme resources/drive 1 .gif">
+<img src="readme resources/drive 1 .png">
 </img>
