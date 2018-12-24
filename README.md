@@ -2,8 +2,7 @@
 
 This project aims at making an autnomous car driving simulation on the udacity simulator.
 
-<img src="readme resources/drive 1.png"
-width="33%">
+<img src="readme resources/drive.gif">
 </img>
 
 
@@ -53,3 +52,7 @@ The Nvidia model works best for the Behavioral Cloning of autonomous car. Feel f
  Download the model and paste it in the same folder as the Drive.py file.
 
  Now run the Drive.py code and open the Udacity simulator on **Autonomous** mode. Your terminal will show it's connected and the car will start moving based on the model.
+
+
+<img src="readme resources/drive 1 .gif">
+</img>
