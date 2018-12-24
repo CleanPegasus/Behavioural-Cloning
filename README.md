@@ -36,7 +36,7 @@ Open command prompt or terminal and type the following commands to install the r
 
 > Numpy : ```pip3 install numpy```
 
-> Eventlet : ```pip3 install Eventlet```
+> Eventlet : ```pip3 install eventlet```
 
 ## Instructions :
 Download and run the udacity simulator from the link given above. Open the training mode. Get used to the drving track and start recording your driving and save it in a data file.
