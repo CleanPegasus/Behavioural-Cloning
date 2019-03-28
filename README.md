@@ -22,7 +22,7 @@ This project aims at making an autnomous car driving simulation on the udacity s
 
 Open command prompt or terminal and type the following commands to install the respective libraries.
 
-> Socket io : ```pip3 install socketio```
+> Socket io : ```pip3 install python-socketio```
 
 > Flask : ```pip3 install flask```
 
